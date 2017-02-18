@@ -1,0 +1,32 @@
+http://thehackernews.com/2017/01/android-banking-malware.html
+
+En la noticia de esta semana se encontro un BankBot, un malware, capaz de 
+obtener toda la informacion bancaria de usuarios de Android. Lo que hacia 
+es que borraba el icono de las aplicaciones de banca del celular android 
+pero no borraba el programa de la banca. Una vez que el  usuario se daba
+ cuenta de la falta de programa, descargaba otro, y el Bank bot, el cual
+\ tomaba el arqueotipo del ingreso de datos de la aplicacion bancaria pedia 
+los datos una segunda vez, como de autenticacion de datos, y era ahi donde 
+tomaba los datos. Esto podia ser adquirido por descargar apk's ajenos al 
+playstore o por clickear links en sms o mms de cuentas que parecieran 
+originales y veridicas o simplemente por estar conectado a los wi-fi hotspots. 
+
+
+1) Creo que hubiera llamado a la recepcion para saber que habia pasado, en dado
+ caso estuviera adentro de la habitacion. Si hubiera estado afuera de la
+ habitacion, hubiera recopilado la mayor cantidad de informacion para saber 
+lo sucedido y al fin de al cabo, esperar hasta que todo haya sido resuelto o
+ se proponga una solucion a ello. 
+
+2) Creando brechas en los programas de android no tan obvias y tendiendo 
+trampas en ellas para capturar al causante de la misma.Contrato a personas 
+sepan mas que yo del tema, como Melinton y que vean si es posible la 
+resolucion del problema por cuentas propias o si es necesario y menos
+riesgoso el hacer lo que ellos dictan
+
+3) Creo que simplemente no cumplen ningun tipo d eobjetivo para demostrar 
+algo o para obtener un bien o beneficio y solo han sido hechos para causar 
+el mal a las personas que necesitan este tipo de servicios. Simplemente creo \
+que es una mala manera de probar las habilidades que posee una persona, ya que
+ afecta a muchas otras, y, a pesar de ser creativo, no demuestra nada mas que
+ su habilidad para daniar al projimo. 

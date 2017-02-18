@@ -1,0 +1,36 @@
+Clase 30 de Enero------------
+Modelo Osi -
+
+Modelo TCP/IP
+Modelo de networking, conjunto de protocolos de comunicacion. 
+Su nombre viene de TCP (Transmission Control Protocol) Tiene 4 capas, Link
+layer que toma los tuneles y comunicacion directa, Internet Layer, Transport
+Layer y Aplication layer. 
+
+
+Seguridad Informatica-----
+Incontables certificaciones de seguridad informatica. CISSP-> Seguridad solicitada
+ISC, ISACA o Offensive Security son entidades que certifican la seguridad 
+informatica. 
+
+Ceritficaciones de seguridad
+ITIL, ISO (Familia ISO 27000 es seguridad informatica) y COBIT (Quién en la 
+organizacion manda a qué)
+
+Entidades importantes en seguridad informatica
+OWASP (Open Web Application Security Project) = Estandares de seguridad para 
+desarrollo web. WASC (Web Application Securytu Consortium), NIST(National
+Institute of Standars ans Technology) = guias para implementaciones de seguridad
+segun estandares
+
+Conceptos
+Backtrack-> Sistema Operativo basado en Ubunto que recopilaba herramientas de 
+seguridad, hecho sobre Debian, limitante y por eso fue botada. Fue hecho en 
+Kali luego sobre Linux. 
+Metasploit = Probar o explotar vulnerabilidades
+Exploitdb = Base de datos que contiene todas las vulnerabilidades con pruebas
+de conceptos que existen. 
+Shodanhq = Search Engine enfocado a dispositivos en internet que no estan seguras
+por utilizar procesos antiguas. 
+Virustotal = encuentra los viruses de los documentos infectados 
+s

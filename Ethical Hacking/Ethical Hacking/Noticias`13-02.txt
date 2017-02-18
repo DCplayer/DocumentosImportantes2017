@@ -1,0 +1,41 @@
+Noticia Semanal
+link: http://thehackernews.com/2017/02/fileless-malware-bank.html
+
+Resumen:La noticia trata de un nuevo malware, el cual no necesitaba de alojamiento
+de archivos en el disco que lo pudieran delatar o con los cuales pudieramos
+buscar un trazo del proveedor del malware. Este tipo de ataque se aloja en la 
+memoria Ram para que al momento de hacer reboot a la computadora, se borre cualquier
+tipo de trazo del malware. Un malware enfocado para ser usado para ATM y extraccion
+de dinero. 
+Encontrado por un grupo de se3guridad de un banco, se descubrio una copia de 
+Meterpreter, el cual utilizaba el PowerShell de Windows para directamente escribir
+el codigo en la memoria o bien utilizaban Microsoft's NETSH para hacer un tunnel
+proxy que se comunicaba con el C&C server.
+
+
+Preguntas
+1) ¿Creen ustedes que este tipo de proveedores deberían tener alguna restricción 
+al momento de tocar información PII (Personal Identifiable Information)?
+
+Una de las mas importantes es evitar compartir la informacion del usuario con
+entes diferentes a la empresas, las cuales no tienen el consentimiento del usuario
+de tener su informacion. Ademas de ello deben de hacer saber a la gente como y 
+por qué están usando su información o qué beneficio recibirian ellos de este uso. 
+
+2) ¿Creen ustedes que este tipo de "ataques" son necesarios/justificados o cumplen 
+con algún objetivo?
+Tal vez con el fin de retrasar procesos hasta el cambio de poder del diputado con
+las ideas contrarias a quien realizó el ataque o quitar recursos a las entes capaces 
+de cumplir los decretos incorrectos puede que sean utiles o necesarios, lo malo es 
+la falta de comunicacion del plan grande o del objetivo final del acto.
+
+
+3)¿Qué opinion les merece de su parte estas acciones? 
+Creo que utilizar el poder o conocimiento que se tiene para erradicar cualquier
+hazaña mala o cualquier hecho que afecte a otros es lo que llamamos justicia y 
+que, a veces, hay gente con el poder que opta por hacer justicia de su parte. 
+En mi parecer, creo que estan en lo correcto debido a que muchas de las entes
+a las que les dedicamos al parte de justicia de un pais o de un servicio como
+el internet puede ser corruptible, pero es necesario eliminar o dar lo que merece
+a quien haya hecho algún hecho con fines perversos, como algunos servicios que
+se prestan en la Dark Web. 
